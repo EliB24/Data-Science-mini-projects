@@ -56,39 +56,36 @@ There are the types of charts that are used to answer these questions:
 
 ## Key Insights from Visualizations
 
-- **Category Distribution**
+- **Category Distribution**  
 Orders are evenly distributed across categories, with a slight preference for furniture.
 This is followed by office supplies and electronics, with little difference between categories. This indicates a diverse demand for products.
-- **Sub-Category Distribution**
+- **Sub-Category Distribution**  
 Orders are distributed across many subcategories, but no single subcategory stands out enough to account for the majority of the data.
-- **State and City Distribution**
+- **State and City Distribution**  
 New York and California have the highest number of orders among the states.
 At the city level, demand is distributed across many cities, without any extreme differences.
-- **Payment Mode Distribution**
+- **Payment Mode Distribution**  
 Payment methods are evenly distributed. Debit Card and Credit Card are the most common, followed closely by UPI.
 COD and EMI are less frequent but still significant.
-- **Sales & Profit by Category**
+- **Sales & Profit by Category**  
 All three categories (electronics, furniture, and office supplies) show relatively similar sales and profit levels.
 This may indicate that the business is balanced across categories and not dependent on any one of them.
-- **Sales & Profit by Sub-Category**
+- **Sales & Profit by Sub-Category**  
 Some products, such as tables, markers, and electronic games, generate much higher sales than others, while many subcategories remain in the middle range.
 Profits typically grow along with the sales, but not to the same level for all products.
 This shows that high sales do not always mean high profits and that some subcategories are more profitable than others.
-- **Monthly Trends**
+- **Monthly Trends**  
 Sales and profits fluctuate significantly over time, with several sharp peaks.
 Profits generally follow sales, but not proportionally, indicating a difference in margins between months.
-- **Distributions (Histograms with KDE)**
+- **Distributions (Histograms with KDE)**  
 The amount varies widely, but most orders are relatively small. Large amounts are less common.
-
 Profits are mostly low, with only a few very high values. This creates a long "tail" on the right side of the graph.
-
 The quantity is limited to a small range (1–20 units per order) and is distributed quite evenly, with no obvious peaks or dominant values.
-- **Sales by State and Category**
+- **Sales by State and Category**  
 Different states lead in different categories (Texas in Electronics, California in Furniture, New York in Office Supplies).
 There is no single state dominating all categories.
-- **Correlation Analysis**
+- **Correlation Analysis**  
 Amount and Profit: moderate positive correlation (0.68).
-
 Quantity and Amount, Quantity and Profit: near zero correlation.
 Profit is driven by sales value rather than by the number of items sold.
 
