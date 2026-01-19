@@ -47,9 +47,9 @@ There are the types of charts that are used to answer these questions:
 ## Technologies Used
 
 - **Python 3**  
-- **pandas** — data manipulation  
-- **matplotlib** — basic plotting  
-- **seaborn** — statistical visualizations  
+- **pandas** - data manipulation  
+- **matplotlib** - basic plotting  
+- **seaborn** - statistical visualizations  
 - **Jupyter Notebook / JupyterLab**
 
 ---
