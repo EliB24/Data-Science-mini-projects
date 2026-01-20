@@ -22,11 +22,11 @@ Target:
 
 The project explores:
 
-- How a Decision Tree fits training data
-- Why validation is necessary
-- How underfitting and overfitting appear
-- How hyperparameters affect model quality
-- Why Random Forest improves over a single tree
+- How a Decision Tree fits training data?
+- Why validation is necessary?
+- How underfitting and overfitting appear?
+- How hyperparameters affect model quality?
+- Why Random Forest improves over a single tree?
 
 ---
 
