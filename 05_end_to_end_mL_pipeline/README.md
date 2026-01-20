@@ -33,8 +33,8 @@ The project includes the following concepts:
 ## Files Included
 
 - **05_end_to_end_pipeline.ipynb** - main Jupyter Notebook 
-- **train.csv** — training dataset
-- **test.csv** — test dataset
+- **train.csv** - training dataset
+- **test.csv** - test dataset
 - **README.md** - project description
 
 ---
