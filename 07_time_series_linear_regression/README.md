@@ -40,7 +40,7 @@ All models are evaluated using Mean Absolute Error (MAE) on a validation set, an
 - **DailyDelhiClimateTest.csv** - test dataset
 - **README.md** - project description
 
-- ---
+---
 
 ## Technologies Used
 
