@@ -1,0 +1,2 @@
+test_accuracy = 0.8154000043869019
+best_val_accuracy = 0.8151999711990356
